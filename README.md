@@ -14,7 +14,7 @@ Allows your users to quickly manage their passwords without the additional profi
 ### Requirements
 * DotNetNuke Version 5.x
 
-Note: I haven't tried confirmed running it on anything but 7.x but the API and install manifest is the same so it should work.
+Note: I haven't confirmed running it on anything but 7.x but the API and install manifest is the same so it should work.
 
 ### Fun Facts
 * This module is built as a website project. Therefore there is no .dll
