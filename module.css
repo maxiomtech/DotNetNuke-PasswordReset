@@ -1,0 +1,9 @@
+﻿.passwordResetForm {margin:10px 0px; width:500px;}
+.passwordResetForm input {width:190px;}
+.passwordResetForm .resetPasswordButton {display:block; margin-top:15px;}
+.passwordResetForm .resetPasswordButton div {display:block; float:left; }
+.passwordResetForm .resetPasswordButton img {position:relative; top:-4px; }
+.passwordResetForm .message {font-size:14px; font-weight:bold; display:block; margin:10px 0px 20px 0px;}
+.passwordResetForm .message span { width:auto; }
+.passwordResetForm .summary {display:block; margin-bottom:10px;}
+.passwordResetForm .textValue { min-height: 3em; padding-top: .4em;}
