@@ -5,7 +5,7 @@ Allows your users to quickly manage their passwords without the additional profi
 
 ### About
 * Module allows are user to reset their password provided that they know their password password.
-* An administrator can reset any specific user's password.
+* An administrator can reset any specific user's password using <code>SUserId</code> querystring parameter.
 
 ### Roadmap
 * Email option to notify users when their password is reset.
