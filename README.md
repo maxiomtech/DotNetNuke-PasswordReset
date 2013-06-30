@@ -22,8 +22,10 @@ Note: I haven't tried confirmed running it on anything but 7.x but the API and i
 ### Screenshot
 
 User changing their password.
+
 ![ScreenShot](https://dl.dropboxusercontent.com/u/10620012/DotNetNuke-PasswordReset-User.png)
 
 Administrator changing a user's password.
+
 ![ScreenShot](https://dl.dropboxusercontent.com/u/10620012/DotNetNuke-PasswordReset-Admin.png)
 
