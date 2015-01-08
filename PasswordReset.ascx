@@ -35,7 +35,7 @@
             </div>
 
             <ul class="dnnActions">
-                <li><input type="button" id="btnResetPassword" class="dnnPrimaryAction" name="btnResetPassword" value="Reset Password" ResourceKey="btnResetPassword" onclick="return $.iitPasswordReset.ResetPassword()" /></li>
+                <li><input type="button" id="btnResetPassword" class="dnnPrimaryAction" name="btnResetPassword" value="<%= Localization.GetString("btnResetPassword.Text", LocalResourceFile) %>" ResourceKey="btnResetPassword" onclick="return $.iitPasswordReset.ResetPassword()" /></li>
                 <li><img id="resetPassword_ajaxLoader" style="display:none;" src="<%=ControlPath %>images/ajax-loader.gif" alt="loading..." /></li>
             </ul>
         </div>
